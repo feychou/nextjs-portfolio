@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+The starting point for a typical portfolio website with multiple pages built with Next.js and an external API.
